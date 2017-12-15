@@ -1,0 +1,5 @@
+{
+  "haskell.ghcMod.executablePath": "ghc-mod",
+  "haskell.ghcMod.check": "onSave",
+  "haskell.ghcMod.logLevel": "log"
+}
